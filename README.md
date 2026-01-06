@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there
 
-<!--
-**keolehub/keolehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Argentina 🇦🇷
 
-Here are some ideas to get you started:
+Soy Nahuel, tengo 15 años, soy argentino y estoy empezando mi camino en la programación,  
+aprendiendo y construyendo proyectos poco a poco 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Lenguajes
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=css,js,html,python,php,cpp&perline=6" />
+</p>
+
+---
+
+## 📌 Sobre mí
+
+- 👶 Aún en etapa de aprendizaje  
+- 🧩 Me gusta probar cosas nuevas y entender cómo funcionan  
+- 🛠️ Hago proyectos simples para practicar y mejorar poco a poco  
+
+---
+
+## 📫 Contacto
+
+- ✉️ Email: [nahuelzx@outlook.com](mailto:nahuelzx@outlook.com)
+
+---
+
+⭐ Gracias por visitar mi perfil
