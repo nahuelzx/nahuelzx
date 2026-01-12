@@ -15,6 +15,14 @@ aprendiendo y construyendo proyectos poco a poco 🚀
 
 ---
 
+## 💻 IDE
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=clion,vscode&perline=6" />
+</p>
+
+---
+
 ## 📌 Sobre mí
 
 - 👶 Aún en etapa de aprendizaje  
