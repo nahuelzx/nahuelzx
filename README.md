@@ -18,7 +18,7 @@ aprendiendo y construyendo proyectos poco a poco 🚀
 ## 💻 IDE
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=clion,vscode, phpstorm&perline=6" />
+  <img src="https://skillicons.dev/icons?i=clion,vscode,phpstorm&perline=6" />
 </p>
 
 ---
